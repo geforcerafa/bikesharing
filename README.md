@@ -4,6 +4,12 @@
 Analysis of a bike sharing company Citi-bike using Tableau, Jupiter Notebook, Python.
 
 
+Tableau Public First link
+[link to dashboard](https://public.tableau.com/app/profile/rafael3114/viz/bikesharing_16509937444780/NYCStory)
+
+Tableau Public Challenge link
+[link to dashboard](https://public.tableau.com/app/profile/rafael3114/viz/ChallengeCitibikeStory/FinalStory?publish=yes)
+
 ## Overview of Project
 
 After a trip to New York City, it was realized that bike sharing is a great idea. There is the possibility to bring the idea to Des Moines, Iowa. The first step is to analyze how it works in NYC, and then take that analysis to Des Moines, to see how it could be adapted. 
@@ -86,5 +92,4 @@ Our starting point is a CSV file with the data of citi-bike for the month of Aug
 
 •	Other additional visualization that could be very useful for the operation and logistics of the company would be a daily balance of inflows – outflows per station of bikes. This would help to visualize which stations have round trips and which ones don’t, so bikes can be brought to them. 
 
-Tableau Public link
-[link to dashboard](https://public.tableau.com/app/profile/rafael3114/viz/bikesharing_16509937444780/NYCStory)
+
